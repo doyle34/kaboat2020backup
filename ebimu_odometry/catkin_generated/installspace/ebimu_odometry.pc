@@ -1,0 +1,8 @@
+prefix=/home/ubuntu/catkin_ws/install
+
+Name: ebimu_odometry
+Description: Description of ebimu_odometry
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

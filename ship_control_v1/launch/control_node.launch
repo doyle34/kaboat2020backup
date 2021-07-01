@@ -1,0 +1,3 @@
+<launch>
+  <node name="control_node" pkg="ship_control_v1" type="listener" />
+</launch>
